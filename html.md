@@ -1,3 +1,3 @@
 # 江桥中学
 ### 你好江中学子在这里可以畅所欲言讨论学校
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=351853499&bvid=BV1VR4y1i7KM&cid=1007708118&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![](https://i1.hdslb.com/bfs/archive/9a32c55b90ac9485d02dc1a50dc1fa94d12b3111.jpg@640w_400h_1c.webp)](https://player.bilibili.com/player.html?aid=683633468&bvid=BV1jS4y1w7SW&cid=711074429&page=1)
